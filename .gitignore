@@ -1,0 +1,11 @@
+# Java compiled output
+out/
+*.class
+
+# Runtime library data (may contain user-entered information)
+data/
+
+# IDE files
+.vscode/
+.idea/
+*.iml
